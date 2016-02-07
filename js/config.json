@@ -1,0 +1,28 @@
+{
+	"rooms": [{
+		"title": "Start",
+		"type": "start",
+		"time": 2000,
+		"choices": [{
+			"Choice 1": "Choice 1",
+			"Choice 2": "Choice 2"
+		}]
+	}, {
+		"title": "Start",
+		"type": "start",
+		"time": 2000,
+		"choices": [{
+			"Choice 1": "Choice 1",
+			"Choice 2": "Choice 2"
+		}],
+		"body": ["line1", "line2"]
+	}, {
+		"title": "Start",
+		"type": "start",
+		"time": 2000,
+		"choices": [{
+			"Choice 1": "Choice 1",
+			"Choice 2": "Choice 2"
+		}]
+	}]
+}
